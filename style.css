@@ -1,0 +1,12 @@
+.container{
+    padding: 50px;
+    border: 1px solid #f00606;
+
+}
+
+#round {
+        height: 50px;
+        width: 50px;
+        border-radius: 25px;
+        background-color: #00ff00;
+}
